@@ -1,6 +1,6 @@
 Welcome to calculator_val project!
 
-This is a simple calculator that performes a few basic operations. 
+This is a simple calculator that performs a few basic operations. 
 Every operation will take as an input 2 arguments.
 The operations available are 'sum', 'subtraction' and 'nroot'.
 
